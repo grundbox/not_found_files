@@ -1,0 +1,21 @@
+{
+  "Page": {
+    "404": "404",
+    "root": "root",
+    "login": "login page"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, uk {🇺🇦 Ukraine} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "home",
+    "login": "login",
+    "404": "404"
+  },
+  "Type": {
+    "layout": "layout",
+    "page": "page",
+    "error": "error"
+  }
+}

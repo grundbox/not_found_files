@@ -1,0 +1,21 @@
+{
+  "Page": {
+    "404": "404",
+    "root": "root",
+    "login": "login"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "login": "Anmelden",
+    "404": "404"
+  },
+  "Type": {
+    "layout": "layout",
+    "page": "seite",
+    "error": "fehler"
+  }
+}
