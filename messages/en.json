@@ -6,7 +6,7 @@
   },
   "LocaleSwitcher": {
     "label": "Change language",
-    "locale": "{locale, select, uk {🇺🇦 Ukraine} en {🇺🇸 English} other {Unknown}}"
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
   },
   "Navigation": {
     "home": "home",
